@@ -63,8 +63,7 @@ int main()
 }
 
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>template1</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	
+	<tabTrigger>template1</tabTrigger> //edit the trigger name here
+	
 </snippet>
